@@ -1,0 +1,27 @@
+    *****************GRADING SYSTEM **********************
+
+  NOTES:
+        EACH SUBJECT:
+        * PASS------> 35 MARKS OUT OF TOTAL 100 MARKS.
+        * FAIL------> BELOW 35 MARKS OUT OF TOTAL MARKS.
+         
+        TOTAL:
+        * PASS------> 175 MARKS OUT OF TOTAL 500 MARKS.
+        * FAIL------> BELOW 175 MARKS OUT OF 500 MARKS.
+
+
+            1. 90-100----- A+ (OUTSTANDING)
+
+            2. 80-89 ----- A  (EXCELLENT)
+
+            3. 70-79 ----- B+ (VERY GOOD)
+
+            4. 60-69 ----- B  (GOOD)
+
+            5. 50-59 ----- C+ (ABOVE AVERAGE)
+
+            6. 40-49 ----- C  (AVERAGE)
+
+            7. 30-39 ----- D  (MARGINAL)
+
+            8. 0-29 ------ D+ (NEED IMPROVEMENT)
